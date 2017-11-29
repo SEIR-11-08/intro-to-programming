@@ -1,13 +1,12 @@
 
-![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDI-GIZMO
+# WDIplus-ATX
 
 ---
 
 Title: Afternoon lesson<br>
 Duration: 2 hrs<br>
-Creator: Thom Page <br>
+Creator: Alex White <br>
 Topics: Variables, DRY, Loops<br>
 
 ---
