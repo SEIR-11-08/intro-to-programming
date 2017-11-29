@@ -73,7 +73,9 @@ Let's learn a bit more about the mechanics of JavaScript.
 
 Let's dive back into programming.
 
-Use the `first_code.js` file from this morning.
+```js
+node
+```
 
 ## Errors
 
