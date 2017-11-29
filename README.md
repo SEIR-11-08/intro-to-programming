@@ -319,8 +319,6 @@ Output a console log "The sum of 5 and 10 is 15" where the values for 5 and 10 a
 <br>
 <hr>
 
-3:00
-
 ## Programming principle: DRY (6 mins)
 
 Don't Repeat Yourself
