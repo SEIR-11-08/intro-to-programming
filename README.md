@@ -67,8 +67,6 @@ Let's learn a bit more about the mechanics of JavaScript.
 <br>
 <hr>
 
-2:40
-
 # Code!
 
 Let's dive back into programming.
@@ -108,8 +106,6 @@ Providing verbal comments within your code is great way to make your code compre
 
 <br>
 <hr>
-
-2:50
 
 <br>
 <hr>
@@ -151,7 +147,6 @@ There are no quotes around numbers.
 
 <br>
 <hr>
-2:55
 
 ## Variables - `const` and `let`
 
@@ -342,8 +337,6 @@ while (num <= 1000) {
 	num++;
 }
 ```
-
-3:05
 <br>
 <hr>
 
@@ -414,8 +407,6 @@ while (zum <= 1000) {
 <br>
 <hr>
 
-3:20
-
 ## `num <= 1000`
 
 ### BOOLEAN EXPRESSION
@@ -483,8 +474,6 @@ Console.log each boolean expression
 <br>
 <hr>
 
-3:30 break until 3:40
-
 ## Block
 
 The curlies denote a **block** of code.
@@ -493,8 +482,6 @@ Each loop is taking the code between the curlies `{ ... }` and running that code
 
 <br>
 <hr>
-
-3:45
 
 ## While loop
 
@@ -523,8 +510,6 @@ The loop will end when `num <= 100` is false. Let's increase the value of `num` 
 
 <br>
 <hr>
-
-3:50
 
 ## Postfix operator `++`
 
@@ -555,7 +540,6 @@ We can also do _exactly the same thing_ with the **compound assignment operator*
 
 <br>
 <hr>
-3:55
 
 &#x1F535; **Activity**
 
@@ -573,8 +557,6 @@ How can you get a while loop to count _backwards_? Use the postfix operator `i--
 
 <br>
 <hr>
-
-4:00
 
 ## _FOR_ LOOP
 
@@ -596,8 +578,6 @@ for (let i=1; i <= 1000; i++) {
 }
 ```
 
-4:05
-
 There are three parts to the 'control panel' of the loop, delimited by the semicolon:
 
 ```javascript
@@ -609,7 +589,6 @@ for (initial condition; while condition; repeating expression) {}
 3. a repeating expression that runs at the end of each loop -- usually an instruction to increase the numerical starting value
 
 <br>
-4:10
 
 &#x1F535; **Code along (4 min)**
 
@@ -637,5 +616,3 @@ FIGURE IT OUT
 
 <br>
 <hr>
-
-4:30
