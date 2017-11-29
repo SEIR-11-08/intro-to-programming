@@ -95,6 +95,18 @@ Errors are a **growth opportunity**. When you receive an error, yes it is an obs
 <br>
 <hr>
 
+<br>
+
+&#x1F535; **Activity**
+
+> In your terminal run type `node` and hit enter
+> Make an error! Type whatever you want to create an error, then take a close look at it. 
+> Try to break down the error message into parts, and name those parts the best you can.
+> As a reply to the instructions for this Activity in Slack, copy-paste your names for the parts of the error message.
+
+<br>
+<hr>
+
 ## Comments / commenting out code
 
 Atom: `⌘ + /`
