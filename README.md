@@ -22,6 +22,8 @@ _After this lesson, students will be able to:_
 
 * Write a for loop
 
+* const vs let
+
 <br>
 <hr>
 
