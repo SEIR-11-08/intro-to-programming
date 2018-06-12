@@ -1,6 +1,6 @@
 
 
-# WDIplus-ATX
+# WDI
 
 ---
 
@@ -15,7 +15,6 @@ Topics: Variables, DRY, Loops<br>
 
 _After this lesson, students will be able to:_
 
-* Read Node error messages
 
 * Evaluate basic Boolean expressions
 
@@ -70,9 +69,7 @@ Let's learn a bit more about the mechanics of JavaScript.
 
 Let's dive back into programming.
 
-```js
-node
-```
+
 
 ## Errors
 
@@ -99,7 +96,7 @@ Errors are a **growth opportunity**. When you receive an error, yes it is an obs
 
 &#x1F535; **Activity**
 
-> In your terminal run type `node` and hit enter
+> In your javascript console
 > Make an error! Type whatever you want to create an error, then take a close look at it. 
 > Try to break down the error message into parts, and name those parts the best you can.
 > As a reply to the instructions for this Activity in Slack, copy-paste your names for the parts of the error message.
