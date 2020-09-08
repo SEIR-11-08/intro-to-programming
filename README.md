@@ -29,7 +29,7 @@ _After this lesson, students will be able to:_
 
 ## Programming
 
-The first two weeks of this course will focus on programming skills. This means learning how to "think like a programmer", and also learning to use tools such as Terminal, Atom, Git, etc.
+The first two weeks of this course will focus on programming skills. This means learning how to "think like a programmer", and also learning to use tools such as Terminal, IDE, Git, etc.
 
 Loosely speaking, learning to "think like a programmer" involves learning:
 
@@ -108,7 +108,7 @@ Errors are a **growth opportunity**. When you receive an error, yes it is an obs
 
 ## Comments / commenting out code
 
-Atom: `⌘ + /`
+Keyboard shortcut: `⌘ + /`
 
 'Comment out' code that doesn't need to run or that you save for later.
 
