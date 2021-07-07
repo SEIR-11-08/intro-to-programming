@@ -354,7 +354,6 @@ while (num <= 1000) {
 
 What is a loop? A loop is a process that **repeats**. Along the way, the loop might accumulate or mutate value. For example, an analog clock works in a **loop**, and each loop of the minute hand increases the count of the hour-hand by 1. The hour-hand counts from 1 to 12, and after 12 loops, it starts counting again from 1.
 
-[Clock loop](https://media.giphy.com/media/zzDDW60OOPm1y/giphy.gif)
 
 
 ## Loop Syntax - while loop
